@@ -43,22 +43,6 @@ Voice-to-Text is an AI-powered speech-to-text web application that allows users 
 ### APIs
 - Deepgram API (Speech Recognition)
 
----
 
-## 📂 Project Structure
-
-```bash
-voice-to-text/
-│
-├── backend/
-│   ├── server.js
-│   ├── package.json
-│   └── .env
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-│   └── vite.config.js
 │
 └── README.md
