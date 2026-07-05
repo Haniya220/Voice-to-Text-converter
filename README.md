@@ -1,6 +1,6 @@
-# voiceIntel
+# VOICE-TO-TEXT
 
-VoiceIntel is an AI-powered speech-to-text web application that allows users to record or upload audio, convert speech into text, format transcripts with AI, and manage transcript history securely.
+Voice-to-Text is an AI-powered speech-to-text web application that allows users to record or upload audio, convert speech into text, format transcripts with AI, and manage transcript history securely.
 
 ## 🚀 Features
 
@@ -48,7 +48,7 @@ VoiceIntel is an AI-powered speech-to-text web application that allows users to 
 ## 📂 Project Structure
 
 ```bash
-voiceIntel/
+voice-to-text/
 │
 ├── backend/
 │   ├── server.js
